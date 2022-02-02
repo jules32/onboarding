@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "expectations.html#introduction",
+    "href": "expectations.html#introduction",
+    "title": "Expectations",
+    "section": "Introduction",
+    "text": "Introduction\nText here."
+  },
+  {
+    "objectID": "expectations.html#another-header",
+    "href": "expectations.html#another-header",
+    "title": "Expectations",
+    "section": "Another header",
+    "text": "Another header\nMore text here."
+  },
+  {
     "objectID": "code-of-conduct.html#introduction",
     "href": "code-of-conduct.html#introduction",
     "title": "Code of Conduct",
@@ -42,27 +56,6 @@
     "text": "Another header\nMore text here."
   },
   {
-    "objectID": "expectations.html#introduction",
-    "href": "expectations.html#introduction",
-    "title": "Expectations",
-    "section": "Introduction",
-    "text": "Introduction\nText here."
-  },
-  {
-    "objectID": "expectations.html#another-header",
-    "href": "expectations.html#another-header",
-    "title": "Expectations",
-    "section": "Another header",
-    "text": "Another header\nMore text here."
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Our Onboarding Process",
-    "section": "About",
-    "text": "About\nAbout us."
-  },
-  {
     "objectID": "offboarding.html#introduction",
     "href": "offboarding.html#introduction",
     "title": "Onboarding",
@@ -75,5 +68,12 @@
     "title": "Onboarding",
     "section": "Another header",
     "text": "Another header\nMore text here."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Our Onboarding Process",
+    "section": "About",
+    "text": "About\nAbout us."
   }
 ]
